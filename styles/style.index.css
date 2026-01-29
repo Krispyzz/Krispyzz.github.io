@@ -30,3 +30,9 @@ h3 {
 header img{
     float: left;
 }
+.shadow{
+    text-shadow: 2px 2px 2px rgba(128, 0, 0, 1);
+}
+main{
+    clear: left;
+}
