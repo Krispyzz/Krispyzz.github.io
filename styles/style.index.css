@@ -17,16 +17,13 @@ header h1 {
     text-indent: 30px;
 }
 
-header h2{
+header h2 {
     font-size: 130%;
     color:#800000;
     text-indent: 30px;
 }
-h1 {
-    color: blue;
-    text-align: center;
-}
-h3{
+
+h3 {
     margin-left: 5px;
     margin-right: 5px;
 }
