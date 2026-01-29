@@ -11,6 +11,17 @@ a:hover, a:focus {
     color:aqua;
 }
 
+header h1 {
+    font-size: 175%;
+    color:maroon;
+    text-indent: 30px;
+}
+
+header h2{
+    font-size: 130px;
+    color:#800000;
+    text-indent: 30px;
+}
 h1 {
     color: blue;
     text-align: center;
