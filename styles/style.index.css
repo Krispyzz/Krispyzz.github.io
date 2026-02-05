@@ -13,10 +13,10 @@ body {
     border: 1px black;
     border-radius: 25px;
     box-shadow: 5px 5px 0 0;
-    background: url(/images/Whipple_logo.jpg),url(/images/Edelbrock-Logo-Vector-scaled.jpg),url(/images/HLLY_BIG-87c8206e.png);
-    background-size: 25%;
-    background-attachment: fixed;
-    background-position: left center right;
+    background: url(/images/Edelbrock-Logo-Vector-scaled.jpg),url(/images/HLLY_BIG-87c8206e.png);
+    background-size: 25% 25%;
+    background-attachment: fixed fixed;
+    background-position: top bottom;
     
     
 }
