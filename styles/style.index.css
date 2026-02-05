@@ -24,6 +24,8 @@ header h2 {
 }
 
 h3 {
+    margin-top: 3em;
+    font-size: 105%;
     margin-left: 5px;
     margin-right: 5px;
 }
@@ -36,10 +38,11 @@ header img{
 main{
     clear: left;
 }
-footer{
+footer p.copyright{
+    text-align: center;
     border: 1em;
     border-color: black;
-    font-size: 60%;
+    font-size: 80%;
     color: #0051ff;
 
 }
