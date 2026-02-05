@@ -37,7 +37,7 @@ main{
     clear: left;
 }
 footer{
-    border: 10px;
+    border: 1em;
     border-color: black;
     font-size: 60%;
     color: #0051ff;
