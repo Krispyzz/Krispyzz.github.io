@@ -36,3 +36,10 @@ header img{
 main{
     clear: left;
 }
+footer{
+    border: 10px;
+    border-color: black;
+    font-size: 60%;
+    color: #0051ff;
+
+}
