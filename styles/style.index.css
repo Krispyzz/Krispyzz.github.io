@@ -16,6 +16,7 @@ body {
     background: url(/images/Whipple_logo.jpg),url(/images/Edelbrock-Logo-Vector-scaled.jpg),url(/images/HLLY_BIG-87c8206e.png);
     background-size: 25%;
     background-attachment: fixed;
+    background-position: left center right;
     
     
 }
