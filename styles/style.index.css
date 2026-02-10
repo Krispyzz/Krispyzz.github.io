@@ -46,6 +46,7 @@ h3 {
 }
 header img{
     float: left;
+    margin: 3em 0em 2em 0em;
 }
 .shadow{
     text-shadow: 2px 2px 5px rgba(128, 0, 0, 1);
