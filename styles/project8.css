@@ -1,0 +1,73 @@
+/*project8.css*/
+html{
+    background-image: linear-gradient(white 0%, black 100%);
+}
+body {
+    width: 90%;
+    background-color: #f0f0f0 !important;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+
+    margin: 15px auto;
+    padding: 15px 1.5em 1.5em 15px;
+    border: 1px black;
+    border-radius: 25px;
+    box-shadow: 5px 5px 0 0;
+    background: url(/images/Edelbrock-Logo-Vector-scaled.jpg) right repeat-y,url(/images/HLLY_BIG-87c8206e.png) right repeat-y;
+    background-size: 25% 25%;
+    background-attachment: fixed fixed;
+    background-position: top bottom;
+    
+    
+}
+
+a:hover, a:focus {
+    font-style:italic;
+    color:aqua;
+    border: 3px blue;
+    border-style: dotted solid;
+
+}
+
+header h1 {
+    font-size: 175%;
+    color:maroon;
+    text-indent: 30px;
+}
+
+header h2 {
+    font-size: 130%;
+    color:#800000;
+    text-indent: 30px;
+}
+
+h3 {
+    margin-top: 3em;
+    font-size: 105%;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+header img{
+    float: left;
+    margin: 2em 2em;
+}
+.shadow{
+    text-shadow: 2px 2px 5px rgba(128, 0, 0, 1);
+}
+article {
+    clear: left;
+    width: 70%;
+    float: left;
+    column-count: 2;
+    column-rule: 2px dotted maroon;
+    column-gap: 2em;
+    margin-left: 2em;
+    
+}
+footer p.copyright{
+    text-align: center;
+    border: 1em;
+    border-color: black;
+    font-size: 80%;
+    color: #0051ff;
+    }
