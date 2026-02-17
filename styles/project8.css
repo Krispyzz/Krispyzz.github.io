@@ -99,10 +99,10 @@ p.fixed{
     top: 40%;
     text-align: center;
     width: auto;
-    height: 200px;
-    padding: 2px 2px 2px 2px black;
+    height: 100px;
+    padding: 1em black;
     background-color: lightgreen;
-    border: 2px 2px 2px 2px black;
-    margin: 5px 5px 5px 5px;
+    border: 2px solid black;
+    margin: 5px;
 
 }
