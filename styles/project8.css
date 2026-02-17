@@ -94,6 +94,8 @@ footer p.copyright{
     text-align: left;
 }
 p.fixed{
+    position: fixed;
+    right:0%;
     text-align: left;
     width: auto;
     border: 2px 2px 2px 2px black;
