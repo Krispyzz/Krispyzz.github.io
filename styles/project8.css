@@ -96,8 +96,11 @@ footer p.copyright{
 p.fixed{
     position: fixed;
     right:0%;
+    top: 40%;
     text-align: left;
     width: auto;
+    padding: 2px 2px 2px 2px black;
+    background-color: lightgreen;
     border: 2px 2px 2px 2px black;
     margin: 5px 5px 5px 5px;
 
