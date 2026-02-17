@@ -97,8 +97,9 @@ p.fixed{
     position: fixed;
     right:0%;
     top: 40%;
-    text-align: left;
+    text-align: center;
     width: auto;
+    height: 200px;
     padding: 2px 2px 2px 2px black;
     background-color: lightgreen;
     border: 2px 2px 2px 2px black;
