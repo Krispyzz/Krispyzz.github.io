@@ -97,7 +97,10 @@ p.fixed{
     position: fixed;
     right:0%;
     top: 40%;
+    display: flex;
     text-align: center;
+    align-items: center;
+    justify-content: center;
     width: auto;
     height: 100px;
     padding: 1em black;
