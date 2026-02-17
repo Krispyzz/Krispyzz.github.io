@@ -83,3 +83,7 @@ main div.contact{
     box-shadow:3px 3px 4px 4px;
     padding: 1em;
 }
+ ul.list{
+    line-height: 1.5em;
+ }
+ 
