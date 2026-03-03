@@ -1,6 +1,6 @@
 /*project8.css*/
 html{
-    background-image: linear-gradient(white 0%, black 100%);
+    background-image: linear-gradient(to left, 0%, black 100%);
 }
 body {
     width: 90%;
@@ -23,8 +23,8 @@ body {
 
 a:hover, a:focus {
     font-style:italic;
-    color:aqua;
-    border: 3px blue;
+    color:rgb(211, 119, 119);
+    border: 3px rgb(235, 53, 53);
     border-style: dotted solid;
 
 }
@@ -85,6 +85,7 @@ aside{
     width: 20%;
     float: right;
     background-color:lightgray;
+    padding: auto;
 }
 footer{
     clear: both;
