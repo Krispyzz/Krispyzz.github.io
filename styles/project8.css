@@ -72,6 +72,9 @@ article img{
     float: left;
     margin-right: 1em;
     margin-bottom: 1em;
+    max-width: 100%;
+    height: auto;
+    display: inline-block;
 }
 article p::first-letter{
     font-size: 3em;
