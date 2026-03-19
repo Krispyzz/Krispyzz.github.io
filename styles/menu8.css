@@ -1,0 +1,36 @@
+/* Menu Styles */
+aside ol {
+    list-style-type: upper-roman;
+    padding: 0;
+}
+aside ul {
+    list-style-type: square;
+    padding: 0;
+}
+#nav_menu ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-start;
+}
+
+#nav_menu ul li {;
+    float: left;
+}
+#nav_menu ul li a {
+  
+    text-align: center;
+    display: block;
+    width: 175px;
+    padding: 1em 0;  
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    border-right: 2px solid black;
+}
+#nav_menu ul li a.lastitem {
+    border-right: none;
+}
+#nav_menu ul li a.current {
+    color: yellow;
+}
