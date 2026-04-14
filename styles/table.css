@@ -80,9 +80,11 @@ border: 2px solid red;
 caption-side: bottom;
 
 }
-
+table.third #table3Job{
+    align-content: center;
+}
 table.third th {
-
+align-content: center;
 background-color: greenyellow;
 
 }
