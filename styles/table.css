@@ -75,7 +75,7 @@ table.third {
 
 border-collapse: collapse;
 
-border: 2px solid purple;
+border: 2px solid red;
 
 caption-side: bottom;
 
@@ -83,7 +83,7 @@ caption-side: bottom;
 
 table.third th {
 
-background-color: salmon;
+background-color: greenyellow;
 
 }
 
@@ -91,14 +91,15 @@ table.third th, table.third td {
 
 padding: 0.7em;
 
-vertical-align: middle;
+vertical-align: top;
 
-border: 2px solid purple;
+border-top: 2px  solid red;
+border-bottom: 2px solid red;
 
 }
 
 table.third thead tr:first-child{
 
-border-bottom: 2px solid purple;
+border-bottom: 2px solid red;
 
 }
