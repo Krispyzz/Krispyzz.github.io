@@ -75,13 +75,14 @@ table.third {
 
 border-collapse: collapse;
 
-border: 2px solid red;
+border-top: 2px solid red;
+border-bottom: 2px solid red;
 
 caption-side: bottom;
 
 }
-table.third #table3Job{
-    align-content: center;
+table.third td#table3Job{
+    text-align: center;
 }
 table.third th {
 align-content: center;
@@ -107,4 +108,5 @@ border-bottom: 2px solid red;
 }
 table.third tr:nth-child(n+3) td {
     border-bottom: none;
+    border-top: none;
 }
