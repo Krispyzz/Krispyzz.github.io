@@ -105,3 +105,6 @@ table.third thead tr:first-child{
 border-bottom: 2px solid red;
 
 }
+table.third tr:nth-child(n+3) td {
+    border-bottom: none;
+}
